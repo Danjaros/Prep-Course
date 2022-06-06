@@ -124,7 +124,7 @@ function fizzBuzz(numero) {
     return "fizz"
   } else if (numero % 5 === 0) {
     return "buzz"
-  } else return numero
+  } else return numero 
 }
 
 function operadoresLogicos(num1, num2, num3) {
